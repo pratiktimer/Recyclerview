@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+    <string name="mood_bad">Mood Bad</string>
+    <string name="mood">Mood</string>
+    <string name="dissatisfied">Dissatisfied</string>
+    <string name="neutral">Neutral</string>
+    <string name="sentimental_satisfied">Sentiment Satisfied</string>
+    <string name="very_dissatisfied">Sentiment Dissatisfied</string>
+    <string name="very_satisfied">Very Satisfied</string>
+</resources>
